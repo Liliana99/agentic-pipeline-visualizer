@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../AgentesInmobiliarios/services"
+		},
+		{
+			"name": "agentic-pipeline-visualizer",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
